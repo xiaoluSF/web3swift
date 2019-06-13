@@ -16,4 +16,5 @@ Pod::Spec.new do |spec|
     spec.dependency 'BigInt', '~> 3.1'
     spec.dependency 'Starscream', '~> 3.1.0'
     spec.dependency 'CryptoSwift', '~> 1.0.0'
+    spec.dependency "secp256k1.swift", "~> 0.1.4"
 end
